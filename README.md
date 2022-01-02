@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://i.pinimg.com/564x/9f/72/8c/9f728cd259cff54742090dc9ab7363bb.jpg" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/tahacini/tahacini/main/assets/gitgud.jpeg" />
 
 # Hello GIT, This Is Taha
 
