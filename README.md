@@ -23,16 +23,16 @@
 
 #### Contact me
 
-<a href="https://www.linkedin.com/in/taha-%C3%A7ini-7b920522a/">
+<a href="https://www.linkedin.com/in/taha-%C3%A7ini-7b920522a/" target="_blank">
   <img align="left" alt="Taha's LinkedIN" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:taha.cini@outlook.com">
  <img align="left" alt="Gmail" width="38px" src="https://raw.githubusercontent.com/tahacini/tahacini/main/assets/mail.webp" />
 </a>
-<a href="https://www.facebook.com/taha.cini.5/">
+<a href="https://www.facebook.com/taha.cini.5/" target="_blank">
  <img align="left" alt="Taha's Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />
 </a> 
-<a href="https://www.instagram.com/tahatahac/?hl=tr">
+<a href="https://www.instagram.com/tahatahac/?hl=tr" target="_blank">
   <img align="left" alt="Taha's Instagram" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 
