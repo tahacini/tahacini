@@ -16,7 +16,6 @@
 <img align="left" alt="React" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="29px" src="https://avatars.githubusercontent.com/in/15368?s=48&v=4" />
 
 <br />
 <br />
@@ -38,5 +37,7 @@
 
 <br />
 <br />
+
+## [Taha's Portfolio Page](https://tahacini.github.io/portfolio/)
 
 # Looking forward to working with you
