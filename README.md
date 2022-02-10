@@ -2,7 +2,7 @@
 
 # Hello GIT, This Is Taha
 
-## I am a Front-end Web Developer and Economist
+## I am a Frontend Web Developer and Economist
 
 - 👀 I’m interested in open source and community development
 - :telescope: I’m currently working on to be a great programmer
@@ -38,6 +38,6 @@
 <br />
 <br />
 
-## [Taha's Portfolio Page](https://tahacini.github.io/portfolio/)
+# [Taha's Portfolio Page](https://www.tahacini.com)
 
 # Looking forward to working with you
